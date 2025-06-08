@@ -13,7 +13,7 @@
 
 ## 🖼️ UI Preview
 
-![Todo App Preview]()
+![Todo App Preview](http://abhi12072003singh.github.io/to-do-app/)
 
 ---
 
@@ -40,4 +40,4 @@ This project is open-source and free to use.
 
 ---
 
-Made with ❤️ by [Abhina Singh]
+Made with ❤️ by Abhinav Singh
