@@ -3,7 +3,8 @@
 
 ## 💡 How to Use
 
-1. Clone or download the repository.
+1. go to this http://abhi12072003singh.github.io/to-do-app/ or
+1. Clone or download the repository
 2. Open `index.html` in a browser.
 3. Type a task in the input box.
 4. Press **Enter** or click **Add Task**.
@@ -13,7 +14,7 @@
 
 ## 🖼️ UI Preview
 
-![Todo App Preview](http://abhi12072003singh.github.io/to-do-app/)
+![Todo App Preview](./image.png)
 
 ---
 
